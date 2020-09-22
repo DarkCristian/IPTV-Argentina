@@ -105,7 +105,7 @@ http://stmv1.questreaming.com/uniteve/uniteve/playlist.m3u8?PlaylistM3UCL
 http://streaming.arcast.com.ar:1935/utntv/utntv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, 5TV
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, 9Link
+#EXTINF:0, Canal 9 Chaco
 http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, 13 Max Television
 http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8?PlaylistM3UCL
