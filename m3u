@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:30,Televisión Pública - Televisión Pública 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600771165/ei/_X9pX6_bE4HqwASM3LmwCg/ip/201.180.17.191/id/XJfpbcIyETo.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgc8dpfU5QUVr9uOmsu3HZnJmmGigRgg-0zag3vHB95A8CIE_JVo72QKmzTs83unFFudmqa3wfd64VR9f7iem5UyTD/file/index.m3u8
-#EXTINF:29,Pakapaka - Pakapaka
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600771169/ei/AYBpX-reMIvIwATLiLCQAg/ip/201.180.17.191/id/Apw7Rbv06V0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ar/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIBD2Gh6B33FyL6MWpWstSDiyQ01opJLRqsmBUxthk8-AiAbRddVrVPm60vtK2uGaAI0rQnRQXnYuC7Q_511jLziXA%3D%3D/file/index.m3u8
-#EXTINF:30,Todo Noticias - TN Todo Noticias
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600771192/ei/GIBpX4ndN8iM-LAP1YWumAE/ip/201.180.17.191/id/wHn1_QVoXGM.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgZvVsxBQ7xv5kNQNFg3Xka90ZUNTXwiLX1AyoLGOXKNECIEQZJfExXi43azBApsgxvnTooVjTFzvmRTw7SdaDTMTu/file/index.m3u8
+#EXTINF:30,Televisión Pública - Televisión Pública EN VIVO
+https://www.youtube.com/watch?v=XJfpbcIyETo
+#EXTINF:29,Pakapaka - Pakapaka en vivo las 24 horas
+https://www.youtube.com/watch?v=XJfpbcIyETo
+#EXTINF:30,Todo Noticias - index.m3u8
+https://www.youtube.com/watch?v=wHn1_QVoXGM
 #EXTINF:0,C5N - C5N
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600771201/ei/IYBpX8iyJueL-LAPxd-VwAw/ip/201.180.17.191/id/Jzk1VTPH8q8.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALmQm_Ce5IjWcS5tApTtfMZARCkhqbrCUMHYsNC2sT9ZAiBl9nFqOU-5SYldnpsqHvO4AR1x9E13E5iqBMR8LducgQ%3D%3D/file/index.m3u8
-#EXTINF:30,Canal Encuentro - Canal Encuentro
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600771203/ei/IoBpX4r2PInGwATKwJTABw/ip/201.180.17.191/id/IGgZbJPvaYY.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGIXl3JUcELubGjPjmae8tk1yWDY2MYSV4W8fHz1gSwgCIEyRL6xz5dZboT0ke0sXCgt5pEEiEVGMYU0nZ_QgegUW/file/index.m3u8
+https://www.youtube.com/watch?v=Jzk1VTPH8q8
+#EXTINF:30,Canal Encuentro - En vivo - Canal Encuentro
+https://www.youtube.com/watch?v=IGgZbJPvaYY
 #EXTINF:30,LA NACION - LN+
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600771205/ei/JYBpX9C_A4WN-LAPo8uZsAk/ip/201.180.17.191/id/Ky3Gro2_Q7E.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHPeepfIgWKWNBQREbiXUdwS5blIG1-sccLHvJSn6MlACIEo6k9r95LArxaabS9JcxZrs6sNROqdoRD3T7CsqHjOI/file/index.m3u8
-#EXTINF:30,Crónica TV - Crónica TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600771210/ei/KoBpX5S_JYuL-LAPpfKuwA4/ip/201.180.17.191/id/8n6QKPb_OFQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgVt_BBJoRqSCXUM8OUGZJzYOHQTJjFcCUiIsCI3tyBHcCIG3nq06t07dXAzyEB9quOX5piFv3G1dWst-tOOvbJi8A/file/index.m3u8
+https://www.youtube.com/watch?v=Ky3Gro2_Q7E
+#EXTINF:30,Crónica TV - index.m3u8
+https://www.youtube.com/watch?v=8n6QKPb_OFQ
 #EXTINF:0, Telefe Rosario
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
 #EXTINF:0, Telefe Santa Fe
