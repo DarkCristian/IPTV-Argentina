@@ -1,457 +1,239 @@
-#EXTM3U Argentina
-
-
-########## Noticias ##########
-
-#EXTINF:0 group-title="Noticias" tvg-logo="https://i.imgur.com/Jo7p7yZ.png", Argentinisima Satelital
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Noticias", BA Buenos Aires
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0089
-
-#EXTINF:0 group-title="Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg", Canal 26 HD
-http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-
-#EXTINF:0 group-title="Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg", Canal 26 HD (Opcion 2)
-http://200.115.193.177/live/26hd-720/.m3u8
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="http://puu.sh/x0JOO/262520c318.png", CNN en Español
-http://p5.giffy.be:8080/thegrandheist/zspqtzbx/11531
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="http://www.conexionabierta.com.ar/images/logo-conexion-abierta.png", Conexion Abierta
-http://server1.mgmultimedios.com:8080/uai/live/chunks.m3u8
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="http://www.conexionabierta.com.ar/images/logo-conexion-abierta.png", Cronica HD
-
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/iLh4q2x.png", Encuentro
-https://contar1.c.s73cdn.net/d2c35dc9-a317-47fd-a323-796a1f42516f/elemental/live/master_1280x720_2200k.m3u8
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/iLh4q2x.png", Garage TV
+#EXTM3U
+#EXTINF:30,Televisión Pública - Televisión Pública EN VIVO
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600771165/ei/_X9pX6_bE4HqwASM3LmwCg/ip/201.180.17.191/id/XJfpbcIyETo.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgc8dpfU5QUVr9uOmsu3HZnJmmGigRgg-0zag3vHB95A8CIE_JVo72QKmzTs83unFFudmqa3wfd64VR9f7iem5UyTD/file/index.m3u8
+#EXTINF:29,Pakapaka - Pakapaka en vivo las 24 horas
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600771169/ei/AYBpX-reMIvIwATLiLCQAg/ip/201.180.17.191/id/Apw7Rbv06V0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ar/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIBD2Gh6B33FyL6MWpWstSDiyQ01opJLRqsmBUxthk8-AiAbRddVrVPm60vtK2uGaAI0rQnRQXnYuC7Q_511jLziXA%3D%3D/file/index.m3u8
+#EXTINF:30,Todo Noticias - index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600771192/ei/GIBpX4ndN8iM-LAP1YWumAE/ip/201.180.17.191/id/wHn1_QVoXGM.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgZvVsxBQ7xv5kNQNFg3Xka90ZUNTXwiLX1AyoLGOXKNECIEQZJfExXi43azBApsgxvnTooVjTFzvmRTw7SdaDTMTu/file/index.m3u8
+#EXTINF:0,C5N - index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600771201/ei/IYBpX8iyJueL-LAPxd-VwAw/ip/201.180.17.191/id/Jzk1VTPH8q8.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALmQm_Ce5IjWcS5tApTtfMZARCkhqbrCUMHYsNC2sT9ZAiBl9nFqOU-5SYldnpsqHvO4AR1x9E13E5iqBMR8LducgQ%3D%3D/file/index.m3u8
+#EXTINF:30,Canal Encuentro - En vivo - Canal Encuentro
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600771203/ei/IoBpX4r2PInGwATKwJTABw/ip/201.180.17.191/id/IGgZbJPvaYY.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGIXl3JUcELubGjPjmae8tk1yWDY2MYSV4W8fHz1gSwgCIEyRL6xz5dZboT0ke0sXCgt5pEEiEVGMYU0nZ_QgegUW/file/index.m3u8
+#EXTINF:30,LA NACION - index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600771205/ei/JYBpX9C_A4WN-LAPo8uZsAk/ip/201.180.17.191/id/Ky3Gro2_Q7E.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHPeepfIgWKWNBQREbiXUdwS5blIG1-sccLHvJSn6MlACIEo6k9r95LArxaabS9JcxZrs6sNROqdoRD3T7CsqHjOI/file/index.m3u8
+#EXTINF:30,Crónica TV - index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600771210/ei/KoBpX5S_JYuL-LAPpfKuwA4/ip/201.180.17.191/id/8n6QKPb_OFQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgVt_BBJoRqSCXUM8OUGZJzYOHQTJjFcCUiIsCI3tyBHcCIG3nq06t07dXAzyEB9quOX5piFv3G1dWst-tOOvbJi8A/file/index.m3u8
+#EXTINF:0, Telefe Rosario
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
+#EXTINF:0, Telefe Santa Fe
+http://telefecanal13hls-lh.akamaihd.net/i/Canal13_SantaFe@399238/master.m3u8?PlaylistM3UCL
+#EXTINF:29, Canal 13 La Rioja
+http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Crossing TV
+https://vivo.solumedia.com:19360/crossing/crossing.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 5 Monte Caceros
+http://149.56.98.124:9090/hls/canal5montecaceros.m3u8?PlaylistM3UCL
+#EXTINF:0, Awka
+https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Retro Plus TV Señal 2
+https://59f2354c05961.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, UTN TV
+https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, 5R TV Santa Fe
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
+#EXTINF:0, Acequia 
+http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?PlaylistM3UCL
+#EXTINF:0, Airevision Digital
+http://airevision.ddns.net:1935/live/myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Cadena 103
+http://arcast.net:1935/cadena103/cadena103/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Cadena Sudeste
+http://stmv3.questreaming.com/cadenasd/cadenasd/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL
+#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAAOMAAADeCAMAAAD4tEcNAAABKVBMVEX///98gXvl4Tvm5uYjkc84l0JbW19wpjteXmL8/PxdXWL39/ft7e309PTz8/NhYWRzc3ednZ/a2tuDg4bHx8nJ3rN7s0JzqzuxsbNpaW51dXni4uJubnJ8fH6/v8DMzM2Tk5akpKbp5TjO4L2EtlOJiYy5ubozmj6Pj5Lu9vuEiYOqqq3t6TjU1NWgoKL7++ju9u+qy4n6+c79/fMond3d7vfQ5tKZnZiusa3b7N2Znpns8+V1sDqXvnCQv2P7+tzz8E1jteP08WWNyOuk0u3z8aLz8Hv08o3J5PTo5WOczKFhsWlOqVdCpt/498ew1rR5u3+RyJfN4Lv39bTv7FT49p/597t6v+fQ6Pa32/FPreL184X29q2/3cJLrFVut3Xd6s+30puSvGnm7B3wAAAZu0lEQVR4nO2diVfaSh" -  Canal 10 Rio Negro
+https://59c5c86e10038.streamlock.net/8204/8204/chunklist_w47008160.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 10 TV
+http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAANwAAADmCAMAAACJZRt4AAAAflBMVEUAAADT09PExMSysrLHx8elpaWxsbG8vLy1tbW9vb25ubnDw8POzs7a2tpKSkrg4OB5eXlpaWlRUVGrq6sLCwuNjY2goKBGRkZnZ2dvb29AQEBhYWFbW1suLi6Xl5c1NTWCgoKMjIwdHR0YGBgmJiZ8fHzm5uYzMzMRERHv7+8UvG1sAAANi0lEQVR4nO2diZarqhKGRREHMBOJUROHJKY79/1f8IKZNCJqOg7Zx3+t0/t0t234BKGogkJRAbkKlqVmwkVZORk32XmZRWlcqCQqki6Q+yq6UJoKzJ2CgFBEqGbPo8XD0G6SPgn73BiOOA0wKilK9YrlIMV6FZIIqzRfqVrzmmsE14JugvtX4cqv2D8E90/X3ATXK9wbbA3gxINaR3DO/CanSo3H96onUXwYpSdR8SD4I6B/g5v7sz" -  Canal 13 Jujuy
+http://genexservicios.com:1935/canal13jujuy/canal13jujuy/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 2 Jujuy
+http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 20 Villamaria
+http://agtube.aldeaglobal.net.ar:8080/live/5bec4ef28bf42/index.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 22 Buenos Aires
+http://api.new.livestream.com/accounts/27390802/events/8239465/live.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 3 La Pampa
+https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 3 Las Heras
+https://5975e06a1f292.streamlock.net:4443/canal3/canal3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 50 Morteros
+https://coopmorteros.online/canal50/vivo.m3u8?PlaylistM3UCL
+#EXTINF:0, CANAL 5TV
+https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 7 Santiago del estero
+https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 8 Catamarca
+https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 9 Litoral
+https://5975e06a1f292.streamlock.net:4443/canal9hd/canal9hd_med/1.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal nueve
+https://live.canalnueve.tv/canal.m3u8?PlaylistM3UCL
+#EXTINF:0, Ciudad TV
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?PlaylistM3UCL
+#EXTINF:0,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8QEA8NDQ4QEA0PDw8PDQ0PEBAPGBAQFRYWGBURFRUYHiggGRolGxMTITEhJSorLi4uFx8zOzMtOCkvLisBCgoKDg0OGRAQGi0fHyUtLS0rKy8tKy0tKy4rLS0tKy0rLSstLSstKy0vKy0tKzErLSstLS8rKy0rLS8tLSstK//AABEIAOEA4QMBEQACEQEDEQH/xAAcAAEBAAMBAQEBAAAAAAAAAAAAAQUGBwQCAwj/xABGEAACAQMBBAYECgcGBwAAAAAAAQIDBBEFBhIhMRNBUWFxkQcigaEUMjNCQ1Jyc7LRIyQ0YoKxwRUWJVOSogiTwsPS4fH/xAAbAQEBAAMBAQEAAAAAAAAAAAAAAQMEBgUCB//EADcRAQABAgIFCgYBBAMBAAAAAAABAgMEEQUhMXGxEjIzQVFhgZHR4RMicqHB8BQVQlLxI" -  CN Digital
+https://panel.dattalive.com/909050/909050/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Conexion Abierta
+http://server1.mgmultimedios.com:8080/uai/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, CPE TV
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8?PlaylistM3UCL
+#EXTINF:0, Elonce
+https://elonce.zapto.org/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:0, Fenix
+https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, GEN TV
+http://inliveserver.com:1935/14030/14030/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Litus
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Medios Rioja
+http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8?PlaylistM3UCL
+#EXTINF:0, Power
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL
+#EXTINF:0, T5 SATELITAL
+http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8?PlaylistM3UCL
+#EXTINF:0, Tele Diez
+http://inliveserver.com:1935/8670/8670/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Telenord Corrientes
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8QEA8QEg8VFRAQEA8VEhAQDQ8WEA8VFRUYFhUVFRcYHSggGBolHRcVITEhJSkrLi4uFx8zODMtNyktLisBCgoKDg0OGhAQGy8lICYtLS0vLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAMgAyAMBEQACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABQYBAwcCBAj/xABEEAABAwIDAwYLBQgABwAAAAABAAIDBBEFBiESMUEHE1FhcbEiMjNCcoGRkqHR8DRSU7LBFBYjYoKT0uEVJENjg7Px/8QAGwEBAAIDAQEAAAAAAAAAAAAAAAUGAQIEAwf/xAA4EQACAQMCAgULBAICAwAAAAAAAQIDBBEFMRIhMkFRcfAGExQzNFJhkaGx0RUiQoHh8SPBF" -  Television Regional Unimar
+https://panel.dattalive.com/8012/8012/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, UNIFE
+https://strive-sdn-lsdlive-live.akamaized.net/live_passthrough_static/unife/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, UNIRIO
+https://59db7e671a1ad.streamlock.net/uniriotv/uniriotv/chunklist_w1849553486.m3u8?PlaylistM3UCL
+#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAAJoAAACaCAMAAABmIaElAAAAsVBMVEXrTDb////rTTcsPlHpPibrSjTqRS71pJn1qJ3wemrvbVvqQir1ppv61M/619L0nJD3vLPsVD/+9/btYEzuZVLyi33849/3s6rpOiL5x8HuaFbwd2byj4HsWEPvcV/xhnf3t67zlon96+n1TTUaPVT5zMX85+T0TTX9TTPzk4boMxptQ0jHSTvkTDc5P0/xgHCQRUNiQknUSjq3SD1GQE2jR0BWQUutSD+GRUSURkLoKxKqz+NVAAAJlUlEQVR4nO2ce3uiOBTGQ0qikiqCF1C8W612Z+q2M7s7O9//g20SbkESIBaUP/Z95qIB8WcCJycnJwHGl+VOB8POJBgvHQDgcrRa25vD1P36dcGXPr3re/bFGi0dCEQ5y5HV23qH44PQpsOztQSFcuaTzeDm+rsNze13Vk4xViw4P892d0" -  Uni Teve
+http://stmv1.questreaming.com/uniteve/uniteve/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, UTN TV
+http://streaming.arcast.com.ar:1935/utntv/utntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, 5TV
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, 9Link
+http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, 13 Max Television
+http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Aire de Santa Fe
+https://sc2.stweb.tv/airedigital/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Argentinisima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 2 Dean Funes
+http://streaming.arcast.com.ar:1935/canal2deanfunes/canal2deanfunes/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 2 Mar del Plata
+https://inliveserver.com:1936/8546/8546/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 2 Tunuyan
+https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 3 Pinamar
+http://209.182.219.229:8080/hls/canal3pinamar.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 3 Rosario
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 4 Bahia Blanca
+https://cdn2.zencast.tv:30443/bahiablanca/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 4 Jujuy
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 4 Esquel
+https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 4 Posadas
+https://589ff3c36f7e8.streamlock.net/canal4/canal4/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 4 San Juan
+http://streamyes.alsolnet.com:1935/canal4sanjuan/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 6 Mar del Plata
+https://edge1o.live.opencaster.com/caster/naxjaqigbpAm.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 6 Moreno
+https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 6 Posadas
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 7 Chubut
+http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 7 Jujuy
+https://59d52c5a5ce5e.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 7 Salta
+https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 8 Tunuyan Mendoza
+https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 9 Televida Mendoza
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 10
+https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 10 Mar del Plata
+https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 12 Madryn TV
+https://59db7e671a1ad.streamlock.net/madryntv/madryntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 13 San Luis
+https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, CN 24/7 Neuquen
+https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 79 Mar del Plata
+https://5d8c5887418ac.streamlock.net:1936/mardelplata/mardelplata/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 907 FM Comunicar
+https://panel.dattalive.com/canal907/canal907/chunklist_w1205944599.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal Cinco Tigre
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal Coop
+https://panel.dattalive.com:443/8138/8138/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal U
+https://vcp.myplaytv.com:443/canalusrt/smil:canalusrt.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal XFN
+https://5d8c5887418ac.streamlock.net:1936/canalxfn/canalxfn/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Cachipum TV
+https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Chacra TV
+https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Chaco TV
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, CL3 Cablevision
+http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, El 10 TV Salta
+https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, El Eco TV
+https://5cbda9ff89c34.streamlock.net:443/elecotv/elecotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Garage TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/pRbp0eZ.png", La 90 FM
-http://streaming02.arcast.com.ar:1935/la90fm/la90fm/chunklist_w379053794.m3u8
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/VuvGm3s.png", 13 Max
-http://coninfo.net:1935/13maxhd/live_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="Noticias", Multivisión
+#EXTINF:0, Lapacho TV Canal 11
+https://5b3050bb1b2d8.streamlock.net:443/tvcanal11/tvcanal11/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
+#EXTINF:0, Metro TV Canal 12 Tucuman
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null&PlaylistM3UCL
+#EXTINF:0, Multivisión
 http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Noticias", NTN24
-http://p5.giffy.be:8080/thegrandheist/zspqtzbx/37501
-
-#EXTINF:-1 group-title="Noticias", Quatro TV
+#EXTINF:0, Net TV
+https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Quatro TV
 https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_ijGDo3iLYPot57Ah1zN_cGizSL0fJu5A31w=s900-c-k-c0xffffffff-no-rj-mo" "Noticias", TN
-
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/1XgRcmd.png", TeleMax HD
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/1XgRcmd.png", TeleMax HD (Opcion 2)
-http://live-edge01.telecentro.net.ar/live/tlxhd-720/master.m3u8
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://2.bp.blogspot.com/-lSwLelo78ik/UnKcpUishtI/AAAAAAAAAM4/dj-BLSbgGqY/s1600/canal13-2.png", Trece
-
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://www.laizquierdadiario.com/IMG/arton76387.png", Canal de la Ciudad
-
-
-#EXTINF:-1 group-title="Noticias" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRBSc_C33jxWUIpGyak7lK_JGMwV0v7CWED8Ycc3EJuoc4uG3eK", TV Publica
-
-
-#EXTINF:0 group-title="Noticias" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRBSc_C33jxWUIpGyak7lK_JGMwV0v7CWED8Ycc3EJuoc4uG3eK", TV Publica (Opcion 2)
-https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
-
-
-########## Premium ##########
-
-#EXTINF:-1 group-title="Premium", A3 Series
-
-
-#EXTINF:-1 group-title="Premium", A&E
-http://zufreelist.net:8080/listam3u/m3ulistam3u/54
-
-#EXTINF:-1 group-title="Premium" tvg-logo="http://puu.sh/reQmr/5de8d7417e.png", Cinecanal
-http://zufreelist.net:8080/listam3u/m3ulistam3u/72
-
-#EXTINF:-1 group-title="Premium" tvg-logo="http://puu.sh/reQmr/5de8d7417e.png", Cinecanal (Opcion 2)
-
-
-#EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/EdMMQTy.jpg", CineLatino
-http://zufreelist.net:8080/listam3u/m3ulistam3u/71
-
-#EXTINF:-1 group-title="Premium", Cinemax
-http://zufreelist.net:8080/listam3u/m3ulistam3u/73
-
-#EXTINF:-1 group-title="Premium" tvg-logo="http://puu.sh/reQVf/4dc9bf5f4d.png", De Pelicula
-
-#EXTINF:-1 group-title="Premium", Films & Arts
-http://zufreelist.net:8080/listam3u/m3ulistam3u/108
-
-#EXTINF:-1 group-title="Premium", Fox
-http://zufreelist.net:8080/listam3u/m3ulistam3u/95
-
-#EXTINF:-1 group-title="Premium", Fox Comedy
-http://zufreelist.net:8080/listam3u/m3ulistam3u/96
-
-#EXTINF:-1 group-title="Premium", Fox Life
-http://zufreelist.net:8080/listam3u/m3ulistam3u/97
-
-#EXTINF:-1 group-title="Premium", Fox Premium Action
-
-
-#EXTINF:-1 group-title="Premium" tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png", Fox Cinema
-
-
-#EXTINF:-1 group-title="Premium" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png", Fox Movies
-http://zufreelist.net:8080/listam3u/m3ulistam3u/474
-
-#EXTINF:-1 group-title="Premium", Fox Series
-http://zufreelist.net:8080/listam3u/m3ulistam3u/98
-
-#EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/fvDxcTN.png", FX
-http://zufreelist.net:8080/listam3u/m3ulistam3u/476
-
-#EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/7lvV8bM.png", FXM
-http://zufreelist.net:8080/listam3u/m3ulistam3u/106
-
-#EXTINF:-1 group-title="Premium" tvg-logo="", Golden
-http://p5.giffy.be:8080/thegrandheist/zspqtzbx/13115
-
-#EXTINF:-1 group-title="Premium" tvg-logo="", Golden (Opcion 2)
-http://zufreelist.net:8080/listam3u/m3ulistam3u/112
-
-#EXTINF:-1 group-title="Premium", HBO
-http://p5.giffy.be:8080/thegrandheist/zspqtzbx/11462
-
-#EXTINF:-1 group-title="Premium", HBO (Opcion 2)
-http://p5.giffy.be:8080/thegrandheist/zspqtzbx/11463
-
-#EXTINF:-1 group-title="Premium", HBO (Opcion 3)
-http://zufreelist.net:8080/listam3u/m3ulistam3u/115
-
-#EXTINF:-1 group-title="Premium", HBO Comedy
-http://p5.giffy.be:8080/thegrandheist/zspqtzbx/11466
-
-#EXTINF:-1 group-title="Premium", HBO Family
-http://zufreelist.net:8080/listam3u/m3ulistam3u/116
-
-#EXTINF:-1 group-title="Premium", HBO Latino
-http://p5.giffy.be:8080/thegrandheist/zspqtzbx/11469
-
-#EXTINF:-1 group-title="Premium", HBO Plus
-http://zufreelist.net:8080/listam3u/m3ulistam3u/117
-
-#EXTINF:-1 group-title="Premium" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/hbo1_black.jpg", HBO 1
-
-
-#EXTINF:-1 group-title="Premium", HBO 2
-http://zufreelist.net:8080/listam3u/m3ulistam3u/118
-
-#EXTINF:-1 group-title="Premium", HBO 2 (Opcion 2)
-http://zufreelist.net:8080/listam3u/m3ulistam3u/483
-
-#EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/EsaA77Q.jpg", HBO Family
-http://p5.giffy.be:8080/thegrandheist/zspqtzbx/11467
-
-#EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/EsaA77Q.jpg", HBO Family (Opcion 2)
-http://p5.giffy.be:8080/thegrandheist/zspqtzbx/11468
-
-#EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/kFkEVHy.jpg", HBO Signature
-http://p5.giffy.be:8080/thegrandheist/zspqtzbx/11470
-
-#EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/EO0x9Vv.jpg", Max Prime
-http://zufreelist.net:8080/listam3u/m3ulistam3u/126
-
-#EXTINF:-1 group-title="Premium", Paramount
-http://zufreelist.net:8080/listam3u/m3ulistam3u/138
-
-#EXTINF:-1 group-title="Premium", Sony
-http://zufreelist.net:8080/listam3u/m3ulistam3u/139
-
-#EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/dU67aNE.png", Space
-http://zufreelist.net:8080/listam3u/m3ulistam3u/140
-
-#EXTINF:-1 group-title="Premium", Studio Universal
-http://zufreelist.net:8080/listam3u/m3ulistam3u/141
-
-#EXTINF:-1 group-title="Premium", Sundance
-http://p5.giffy.be:8080/thegrandheist/zspqtzbx/12694
-
-#EXTINF:-1 group-title="Premium", Syfy
-http://zufreelist.net:8080/listam3u/m3ulistam3u/143
-
-#EXTINF:-1 group-title="Premium", TBS
-http://zufreelist.net:8080/listam3u/m3ulistam3u/144
-
-#EXTINF:-1 group-title="Premium", TCM
-http://zufreelist.net:8080/listam3u/m3ulistam3u/145
-
-#EXTINF:-1 group-title="Premium", TLC
-http://zufreelist.net:8080/listam3u/m3ulistam3u/146
-
-#EXTINF:-1 group-title="Premium", TNT
-http://zufreelist.net:8080/listam3u/m3ulistam3u/147
-
-#EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/0jJ1TNo.png", TNT Series
-http://zufreelist.net:8080/listam3u/m3ulistam3u/148
-
-#EXTINF:-1 group-title="Premium", Universal Channel
-http://zufreelist.net:8080/listam3u/m3ulistam3u/150
-
-
-########## Documentales ##########
-
-#EXTINF:-1 group-title="Documentales", Animal Planet
-http://zufreelist.net:8080/listam3u/m3ulistam3u/57
-
-#EXTINF:-1 group-title="Documentales", Discovery Channel
-http://p5.giffy.be:8080/thegrandheist/zspqtzbx/44713
-
-#EXTINF:-1 group-title="Documentales", Discovery Channel ( Opcion 2)
-http://zufreelist.net:8080/listam3u/m3ulistam3u/78
-
-#EXTINF:-1 group-title="Documentales", Discovery Civilization
-http://zufreelist.net:8080/listam3u/m3ulistam3u/79
-
-#EXTINF:-1 group-title="Documentales" tvg-logo="http://puu.sh/reRWX/1a8a31aab2.png", Discovery Home & Health
-http://zufreelist.net:8080/listam3u/m3ulistam3u/80
-
-#EXTINF:-1 group-title="Documentales", Discovery Science
-http://zufreelist.net:8080/listam3u/m3ulistam3u/82
-
-#EXTINF:-1 group-title="Documentales", Discovery TLC
-
-
-#EXTINF:-1 group-title="Documentales", Discovery Turbo
-http://zufreelist.net:8080/listam3u/m3ulistam3u/83
-
-#EXTINF:-1 group-title="Documentales", Discovery World
-
-
-#EXTINF:-1 group-title="Documentales", E!
-http://zufreelist.net:8080/listam3u/m3ulistam3u/87
-
-#EXTINF:-1 group-title="Documentales", History
-http://p5.giffy.be:8080/thegrandheist/zspqtzbx/44720
-
-#EXTINF:-1 group-title="Documentales", History (Opcion 2)
-http://zufreelist.net:8080/listam3u/m3ulistam3u/120
-
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png", Investigation Discovery
-
-
-#EXTINF:-1 group-title="Documentales" tvg-logo="https://i.imgur.com/bFTjNRb.png", Lifetime
-
-
-#EXTINF:-1 group-title="Documentales", Natgeo
-http://zufreelist.net:8080/listam3u/m3ulistam3u/134
-
-#EXTINF:-1 group-title="Documentales", Natgeo Wild
-http://zufreelist.net:8080/listam3u/m3ulistam3u/133
-
-
-########## Infantiles ##########
-
-#EXTINF:0 group-title="Infantiles", Anime TV
-
-
-#EXTINF:-1 group-title="Infantiles", Boomerang
-http://zufreelist.net:8080/listam3u/m3ulistam3u/64
-
-#EXTINF:-1 group-title="Infantiles", Cartoon Network
-http://zufreelist.net:8080/listam3u/m3ulistam3u/69
-
-#EXTINF:-1 group-title="Infantiles", Discovery Kids
-http://p5.giffy.be:8080/thegrandheist/zspqtzbx/44712
-
-#EXTINF:-1 group-title="Infantiles", Discovery Kids (Opcion 2)
-http://zufreelist.net:8080/listam3u/m3ulistam3u/81
-
-#EXTINF:-1 group-title="Infantiles", Disney Channel
-http://zufreelist.net:8080/listam3u/m3ulistam3u/84
-
-#EXTINF:-1 group-title="Infantiles", Disney Jr
-http://zufreelist.net:8080/listam3u/m3ulistam3u/85
-
-#EXTINF:-1 group-title="Infantiles", Disney XD
-http://zufreelist.net:8080/listam3u/m3ulistam3u/86
-
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://i.imgur.com/kF29z8z.jpg", Locomotion TV
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-
-#EXTINF:-1 group-title="Infantiles", Natgeo Kids
-http://zufreelist.net:8080/listam3u/m3ulistam3u/132
-
-#EXTINF:-1 group-title="Infantiles", NickJr
-http://zufreelist.net:8080/listam3u/m3ulistam3u/135
-
-#EXTINF:-1 group-title="Infantiles", Nickelodeon
-http://zufreelist.net:8080/listam3u/m3ulistam3u/136
-
-#EXTINF:-1 group-title="Infantiles", PakaPaka
-https://contar1.c.s73cdn.net/fac2e653-6660-4449-8280-9fd5c6cec919/elemental/live/master_1280x720_2200k.m3u8
-
-#EXTINF:-1 group-title="Infantiles", ToonCast
-
-
-
-########## Deportes ##########
-
-#EXTINF:-1 group-title="Deportes", AYM Sports
-http://p5.giffy.be:8080/thegrandheist/zspqtzbx/37771
-
-#EXTINF:-1 group-title="Deportes", DeporTV
-https://contar1.c.s73cdn.net/ca50b541-05b5-4e4f-ab60-33c3bed01f2d/elemental/live/master_960x540_1400k.m3u8
-
-#EXTINF:-1 group-title="Deportes", ESPN Deportes
-http://p5.giffy.be:8080/thegrandheist/zspqtzbx/11530
-
-#EXTINF:-1 group-title="Deportes", ESPN
-http://zufreelist.net:8080/listam3u/m3ulistam3u/88
-
-#EXTINF:-1 group-title="Deportes", ESPN 2
-http://zufreelist.net:8080/listam3u/m3ulistam3u/91
-
-#EXTINF:-1 group-title="Deportes", ESPN 3
-http://zufreelist.net:8080/listam3u/m3ulistam3u/90
-
-#EXTINF:-1 group-title="Deportes", ESPN +
-http://zufreelist.net:8080/listam3u/m3ulistam3u/89
-
-#EXTINF:-1 group-title="Deportes", Fox Sports
-http://zufreelist.net:8080/listam3u/m3ulistam3u/111
-
-#EXTINF:-1 group-title="Deportes", Fox Sports 1
-http://p5.giffy.be:8080/thegrandheist/zspqtzbx/44717
-
-#EXTINF:-1 group-title="Deportes", Fox Sports 2
-http://zufreelist.net:8080/listam3u/m3ulistam3u/99
-
-#EXTINF:-1 group-title="Deportes", Fox Sports 3
-http://zufreelist.net:8080/listam3u/m3ulistam3u/110
-
-#EXTINF:-1 group-title="Deportes", TNT Sports
-http://heinentv.ddns.net:25461/mil/mil/16186?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="Deportes", TNT Sports (Opcion 2)
-http://p5.giffy.be:8080/thegrandheist/zspqtzbx/37685
-
-#EXTINF:-1 group-title="Deportes", TyC Sports Internacional
-http://p5.giffy.be:8080/thegrandheist/zspqtzbx/44733
-
-
-
-########## 24/7 ##########
-
-#EXTINF:-1 group-title="24/7", Terror
-
-
-#EXTINF:-1 group-title="24/7", Super Campeones
-
-
-#EXTINF:-1 group-title="24/7", Stranger Things
-
-
-#EXTINF:-1 group-title="24/7", Spiderman
-
-
-#EXTINF:-1 group-title="24/7", South Park
-
-
-#EXTINF:-1 group-title="24/7", Smallville
-
-
-#EXTINF:-1 group-title="24/7", Simpsons
-
-
-#EXTINF:-1 group-title="24/7", Shera
-
-
-#EXTINF:-1 group-title="24/7", Sailor
-
-
-#EXTINF:-1 group-title="24/7", Robotech
-
-
-#EXTINF:-1 group-title="24/7", Power Rangers
-
-
-#EXTINF:-1 group-title="24/7", Pokemon
-
-
-#EXTINF:-1 group-title="24/7", Pinky
-
-
-#EXTINF:-1 group-title="24/7", Naruto
-
-
-#EXTINF:-1 group-title="24/7", Mazingerz
-
-
-#EXTINF:-1 group-title="24/7", Maravillosos
-
-
-#EXTINF:-1 group-title="24/7", He Man
-
-
-#EXTINF:-1 group-title="24/7", El señor de los cielos
-
-
-#EXTINF:-1 group-title="24/7", El Chema
-
-
-#EXTINF:-1 group-title="24/7", El Chavo del 8
-
-
-#EXTINF:-1 group-title="24/7", El Chapulín Colorado
-
-
-#EXTINF:-1 group-title="24/7", Dragon Ball Z
-
-
-#EXTINF:-1 group-title="24/7", Dragon Ball Super
-http://zufreelist.net:8080/listam3u/m3ulistam3u/206
-
-#EXTINF:-1 group-title="24/7", Dragon Ball GT
-
-
-#EXTINF:-1 group-title="24/7", Dinosaurios
-
-
-#EXTINF:-1 group-title="24/7", Desafio Sobre Fuego LATAM
-
-
-#EXTINF:-1 group-title="24/7", Casa de Papel
-
-
-#EXTINF:-1 group-title="24/7", Simpsons
-http://zufreelist.net:8080/listam3u/m3ulistam3u/207
-
-
-########## Musica ##########
-
-#EXTINF:-1 group-title="Musica",Music Top HD
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-
-#EXTINF:-1 group-title="Musica",Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Musica",Melody Channel
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
-
-#EXTINF:-1 group-title="Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/MTV_Latino.png",MTV
-http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
-
-#EXTINF:-1 group-title="Musica" tvg-logo="https://i.imgur.com/FscV0as.png", Tierramia TV
+#EXTINF:0, RTN
+http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:0, Sicardi TV
+https://stmvideo2.livecastv.com/sicarditv/sicarditv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Somos Rosario
+http://s8.stweb.tv/chacra/rosario_abr/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TDC TV Santa Fe
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Telecreativa
+https://cdn2.zencast.tv:30443/telecreativa/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Telediario Televisión
+http://31.220.61.253:8090/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:0, Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Telpin Canal 2
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Terramia TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Musica" tvg-logo="https://i.imgur.com/FscV0as.png", Tierramia TV (Opcion 2)
-https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b1864000_sleng.m3u8
-
-
-########## Peliculas ##########
+#EXTINF:0, Telesol San Juan
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TSN Necochea
+https://panel.dattalive.com/8130/8130/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Mana
+http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Publica Fueguina
+https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8?PlaylistM3UCL
+#EXTINF:0, Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Classic Mix
+https://usb.bozztv.com/DIGIMEDIOS/index.m3u8?PlaylistM3UCL
+#EXTINF:0, Retro Plus TV
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Rewind TV
+https://srv2.zcast.com.br/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 6 Entre Rios
+http://inliveserver.com:1935/8380/8380/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,  uRV TV
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
