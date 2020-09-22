@@ -39,11 +39,11 @@ http://airevision.ddns.net:1935/live/myStream/playlist.m3u8?PlaylistM3UCL
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Cadena Sudeste
 http://stmv3.questreaming.com/cadenasd/cadenasd/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL
-#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAAOMAAADeCAMAAAD4tEcNAAABKVBMVEX///98gXvl4Tvm5uYjkc84l0JbW19wpjteXmL8/PxdXWL39/ft7e309PTz8/NhYWRzc3ednZ/a2tuDg4bHx8nJ3rN7s0JzqzuxsbNpaW51dXni4uJubnJ8fH6/v8DMzM2Tk5akpKbp5TjO4L2EtlOJiYy5ubozmj6Pj5Lu9vuEiYOqqq3t6TjU1NWgoKL7++ju9u+qy4n6+c79/fMond3d7vfQ5tKZnZiusa3b7N2Znpns8+V1sDqXvnCQv2P7+tzz8E1jteP08WWNyOuk0u3z8aLz8Hv08o3J5PTo5WOczKFhsWlOqVdCpt/498ew1rR5u3+RyJfN4Lv39bTv7FT49p/597t6v+fQ6Pa32/FPreL184X29q2/3cJLrFVut3Xd6s+30puSvGnm7B3wAAAZu0lEQVR4nO2diVfaSh" -  Canal 10 Rio Negro
+#EXTINF:0, Canal 10 Rio Negro -  Canal 10 Rio Negro
 https://59c5c86e10038.streamlock.net/8204/8204/chunklist_w47008160.m3u8?PlaylistM3UCL
 #EXTINF:0, Canal 10 TV
 http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAANwAAADmCAMAAACJZRt4AAAAflBMVEUAAADT09PExMSysrLHx8elpaWxsbG8vLy1tbW9vb25ubnDw8POzs7a2tpKSkrg4OB5eXlpaWlRUVGrq6sLCwuNjY2goKBGRkZnZ2dvb29AQEBhYWFbW1suLi6Xl5c1NTWCgoKMjIwdHR0YGBgmJiZ8fHzm5uYzMzMRERHv7+8UvG1sAAANi0lEQVR4nO2diZarqhKGRREHMBOJUROHJKY79/1f8IKZNCJqOg7Zx3+t0/t0t234BKGogkJRAbkKlqVmwkVZORk32XmZRWlcqCQqki6Q+yq6UJoKzJ2CgFBEqGbPo8XD0G6SPgn73BiOOA0wKilK9YrlIMV6FZIIqzRfqVrzmmsE14JugvtX4cqv2D8E90/X3ATXK9wbbA3gxINaR3DO/CanSo3H96onUXwYpSdR8SD4I6B/g5v7sz" -  Canal 13 Jujuy
+#EXTINF:0, Canal 13 Jujuy
 http://genexservicios.com:1935/canal13jujuy/canal13jujuy/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Canal 2 Jujuy
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8?PlaylistM3UCL
@@ -69,7 +69,7 @@ https://5975e06a1f292.streamlock.net:4443/canal9hd/canal9hd_med/1.m3u8?PlaylistM
 https://live.canalnueve.tv/canal.m3u8?PlaylistM3UCL
 #EXTINF:0, Ciudad TV
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?PlaylistM3UCL
-#EXTINF:0,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8QEA8NDQ4QEA0PDw8PDQ0PEBAPGBAQFRYWGBURFRUYHiggGRolGxMTITEhJSorLi4uFx8zOzMtOCkvLisBCgoKDg0OGRAQGi0fHyUtLS0rKy8tKy0tKy4rLS0tKy0rLSstLSstKy0vKy0tKzErLSstLS8rKy0rLS8tLSstK//AABEIAOEA4QMBEQACEQEDEQH/xAAcAAEBAAMBAQEBAAAAAAAAAAAAAQUGBwQCAwj/xABGEAACAQMBBAYECgcGBwAAAAAAAQIDBBEFBhIhMRNBUWFxkQcigaEUMjNCQ1Jyc7LRIyQ0YoKxwRUWJVOSogiTwsPS4fH/xAAbAQEBAAMBAQEAAAAAAAAAAAAAAQMEBgUCB//EADcRAQABAgIFCgYBBAMBAAAAAAABAgMEEQUhMXGxEjIzQVFhgZHR4RMicqHB8BQVQlLxI" -  CN Digital
+#EXTINF:0, CN Digital
 https://panel.dattalive.com/909050/909050/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Conexion Abierta
 http://server1.mgmultimedios.com:8080/uai/live/playlist.m3u8?PlaylistM3UCL
@@ -93,13 +93,13 @@ http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8?Playlis
 http://inliveserver.com:1935/8670/8670/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Telenord Corrientes
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8QEA8QEg8VFRAQEA8VEhAQDQ8WEA8VFRUYFhUVFRcYHSggGBolHRcVITEhJSkrLi4uFx8zODMtNyktLisBCgoKDg0OGhAQGy8lICYtLS0vLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAMgAyAMBEQACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABQYBAwcCBAj/xABEEAABAwIDAwYLBQgABwAAAAABAAIDBBEFBiESMUEHE1FhcbEiMjNCcoGRkqHR8DRSU7LBFBYjYoKT0uEVJENjg7Px/8QAGwEBAAIDAQEAAAAAAAAAAAAAAAUGAQIEAwf/xAA4EQACAQMCAgULBAICAwAAAAAAAQIDBBEFMRIhMkFRcfAGExQzNFJhkaGx0RUiQoHh8SPBF" -  Television Regional Unimar
+#EXTINF:0, Television Regional Unimar
 https://panel.dattalive.com/8012/8012/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, UNIFE
 https://strive-sdn-lsdlive-live.akamaized.net/live_passthrough_static/unife/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, UNIRIO
 https://59db7e671a1ad.streamlock.net/uniriotv/uniriotv/chunklist_w1849553486.m3u8?PlaylistM3UCL
-#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAAJoAAACaCAMAAABmIaElAAAAsVBMVEXrTDb////rTTcsPlHpPibrSjTqRS71pJn1qJ3wemrvbVvqQir1ppv61M/619L0nJD3vLPsVD/+9/btYEzuZVLyi33849/3s6rpOiL5x8HuaFbwd2byj4HsWEPvcV/xhnf3t67zlon96+n1TTUaPVT5zMX85+T0TTX9TTPzk4boMxptQ0jHSTvkTDc5P0/xgHCQRUNiQknUSjq3SD1GQE2jR0BWQUutSD+GRUSURkLoKxKqz+NVAAAJlUlEQVR4nO2ce3uiOBTGQ0qikiqCF1C8W612Z+q2M7s7O9//g20SbkESIBaUP/Z95qIB8WcCJycnJwHGl+VOB8POJBgvHQDgcrRa25vD1P36dcGXPr3re/bFGi0dCEQ5y5HV23qH44PQpsOztQSFcuaTzeDm+rsNze13Vk4xViw4P892d0" -  Uni Teve
+#EXTINF:0, Uni Teve
 http://stmv1.questreaming.com/uniteve/uniteve/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, UTN TV
 http://streaming.arcast.com.ar:1935/utntv/utntv/playlist.m3u8?PlaylistM3UCL
