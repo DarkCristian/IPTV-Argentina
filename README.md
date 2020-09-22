@@ -1,2 +1,0 @@
-# IPTV-Argentina
-IPTV list 

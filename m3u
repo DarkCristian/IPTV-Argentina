@@ -1,0 +1,240 @@
+#EXTM3U
+#EXTINF:30,Televisión Pública - Televisión Pública EN VIVO
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600771165/ei/_X9pX6_bE4HqwASM3LmwCg/ip/201.180.17.191/id/XJfpbcIyETo.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgc8dpfU5QUVr9uOmsu3HZnJmmGigRgg-0zag3vHB95A8CIE_JVo72QKmzTs83unFFudmqa3wfd64VR9f7iem5UyTD/file/index.m3u8
+#EXTINF:29,Pakapaka - Pakapaka en vivo las 24 horas
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600771169/ei/AYBpX-reMIvIwATLiLCQAg/ip/201.180.17.191/id/Apw7Rbv06V0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ar/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIBD2Gh6B33FyL6MWpWstSDiyQ01opJLRqsmBUxthk8-AiAbRddVrVPm60vtK2uGaAI0rQnRQXnYuC7Q_511jLziXA%3D%3D/file/index.m3u8
+#EXTINF:30,Todo Noticias - index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600771192/ei/GIBpX4ndN8iM-LAP1YWumAE/ip/201.180.17.191/id/wHn1_QVoXGM.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgZvVsxBQ7xv5kNQNFg3Xka90ZUNTXwiLX1AyoLGOXKNECIEQZJfExXi43azBApsgxvnTooVjTFzvmRTw7SdaDTMTu/file/index.m3u8
+#EXTINF:0,C5N - index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600771201/ei/IYBpX8iyJueL-LAPxd-VwAw/ip/201.180.17.191/id/Jzk1VTPH8q8.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALmQm_Ce5IjWcS5tApTtfMZARCkhqbrCUMHYsNC2sT9ZAiBl9nFqOU-5SYldnpsqHvO4AR1x9E13E5iqBMR8LducgQ%3D%3D/file/index.m3u8
+#EXTINF:30,Canal Encuentro - En vivo - Canal Encuentro
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600771203/ei/IoBpX4r2PInGwATKwJTABw/ip/201.180.17.191/id/IGgZbJPvaYY.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGIXl3JUcELubGjPjmae8tk1yWDY2MYSV4W8fHz1gSwgCIEyRL6xz5dZboT0ke0sXCgt5pEEiEVGMYU0nZ_QgegUW/file/index.m3u8
+#EXTINF:30,LA NACION - index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600771205/ei/JYBpX9C_A4WN-LAPo8uZsAk/ip/201.180.17.191/id/Ky3Gro2_Q7E.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHPeepfIgWKWNBQREbiXUdwS5blIG1-sccLHvJSn6MlACIEo6k9r95LArxaabS9JcxZrs6sNROqdoRD3T7CsqHjOI/file/index.m3u8
+#EXTINF:30,Crónica TV - index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600771210/ei/KoBpX5S_JYuL-LAPpfKuwA4/ip/201.180.17.191/id/8n6QKPb_OFQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgVt_BBJoRqSCXUM8OUGZJzYOHQTJjFcCUiIsCI3tyBHcCIG3nq06t07dXAzyEB9quOX5piFv3G1dWst-tOOvbJi8A/file/index.m3u8
+#EXTINF:0, Telefe Rosario
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
+#EXTINF:0, Telefe Santa Fe
+http://telefecanal13hls-lh.akamaihd.net/i/Canal13_SantaFe@399238/master.m3u8?PlaylistM3UCL
+#EXTINF:29, Canal 13 La Rioja
+http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Crossing TV
+https://vivo.solumedia.com:19360/crossing/crossing.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 5 Monte Caceros
+http://149.56.98.124:9090/hls/canal5montecaceros.m3u8?PlaylistM3UCL
+#EXTINF:0, Awka
+https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Retro Plus TV Señal 2
+https://59f2354c05961.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, UTN TV
+https://5975e06a1f292.streamlock.net:4443/utntv/utntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, 5R TV Santa Fe
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
+#EXTINF:0, Acequia 
+http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?PlaylistM3UCL
+#EXTINF:0, Airevision Digital
+http://airevision.ddns.net:1935/live/myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Cadena 103
+http://arcast.net:1935/cadena103/cadena103/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Cadena Sudeste
+http://stmv3.questreaming.com/cadenasd/cadenasd/playlist.m3u8?fluxustv.m3u8&PlaylistM3UCL
+#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAAOMAAADeCAMAAAD4tEcNAAABKVBMVEX///98gXvl4Tvm5uYjkc84l0JbW19wpjteXmL8/PxdXWL39/ft7e309PTz8/NhYWRzc3ednZ/a2tuDg4bHx8nJ3rN7s0JzqzuxsbNpaW51dXni4uJubnJ8fH6/v8DMzM2Tk5akpKbp5TjO4L2EtlOJiYy5ubozmj6Pj5Lu9vuEiYOqqq3t6TjU1NWgoKL7++ju9u+qy4n6+c79/fMond3d7vfQ5tKZnZiusa3b7N2Znpns8+V1sDqXvnCQv2P7+tzz8E1jteP08WWNyOuk0u3z8aLz8Hv08o3J5PTo5WOczKFhsWlOqVdCpt/498ew1rR5u3+RyJfN4Lv39bTv7FT49p/597t6v+fQ6Pa32/FPreL184X29q2/3cJLrFVut3Xd6s+30puSvGnm7B3wAAAZu0lEQVR4nO2diVfaSh" -  Canal 10 Rio Negro
+https://59c5c86e10038.streamlock.net/8204/8204/chunklist_w47008160.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 10 TV
+http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAANwAAADmCAMAAACJZRt4AAAAflBMVEUAAADT09PExMSysrLHx8elpaWxsbG8vLy1tbW9vb25ubnDw8POzs7a2tpKSkrg4OB5eXlpaWlRUVGrq6sLCwuNjY2goKBGRkZnZ2dvb29AQEBhYWFbW1suLi6Xl5c1NTWCgoKMjIwdHR0YGBgmJiZ8fHzm5uYzMzMRERHv7+8UvG1sAAANi0lEQVR4nO2diZarqhKGRREHMBOJUROHJKY79/1f8IKZNCJqOg7Zx3+t0/t0t234BKGogkJRAbkKlqVmwkVZORk32XmZRWlcqCQqki6Q+yq6UJoKzJ2CgFBEqGbPo8XD0G6SPgn73BiOOA0wKilK9YrlIMV6FZIIqzRfqVrzmmsE14JugvtX4cqv2D8E90/X3ATXK9wbbA3gxINaR3DO/CanSo3H96onUXwYpSdR8SD4I6B/g5v7sz" -  Canal 13 Jujuy
+http://genexservicios.com:1935/canal13jujuy/canal13jujuy/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 2 Jujuy
+http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 20 Villamaria
+http://agtube.aldeaglobal.net.ar:8080/live/5bec4ef28bf42/index.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 22 Buenos Aires
+http://api.new.livestream.com/accounts/27390802/events/8239465/live.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 3 La Pampa
+https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 3 Las Heras
+https://5975e06a1f292.streamlock.net:4443/canal3/canal3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 50 Morteros
+https://coopmorteros.online/canal50/vivo.m3u8?PlaylistM3UCL
+#EXTINF:0, CANAL 5TV
+https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 7 Santiago del estero
+https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 8 Catamarca
+https://5975e06a1f292.streamlock.net:4443/c8/c8/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 9 Litoral
+https://5975e06a1f292.streamlock.net:4443/canal9hd/canal9hd_med/1.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal nueve
+https://live.canalnueve.tv/canal.m3u8?PlaylistM3UCL
+#EXTINF:0, Ciudad TV
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8?PlaylistM3UCL
+#EXTINF:0,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8QEA8NDQ4QEA0PDw8PDQ0PEBAPGBAQFRYWGBURFRUYHiggGRolGxMTITEhJSorLi4uFx8zOzMtOCkvLisBCgoKDg0OGRAQGi0fHyUtLS0rKy8tKy0tKy4rLS0tKy0rLSstLSstKy0vKy0tKzErLSstLS8rKy0rLS8tLSstK//AABEIAOEA4QMBEQACEQEDEQH/xAAcAAEBAAMBAQEBAAAAAAAAAAAAAQUGBwQCAwj/xABGEAACAQMBBAYECgcGBwAAAAAAAQIDBBEFBhIhMRNBUWFxkQcigaEUMjNCQ1Jyc7LRIyQ0YoKxwRUWJVOSogiTwsPS4fH/xAAbAQEBAAMBAQEAAAAAAAAAAAAAAQMEBgUCB//EADcRAQABAgIFCgYBBAMBAAAAAAABAgMEEQUhMXGxEjIzQVFhgZHR4RMicqHB8BQVQlLxI" -  CN Digital
+https://panel.dattalive.com/909050/909050/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Conexion Abierta
+http://server1.mgmultimedios.com:8080/uai/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, CPE TV
+http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8?PlaylistM3UCL
+#EXTINF:0, Elonce
+https://elonce.zapto.org/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:0, Fenix
+https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, GEN TV
+http://inliveserver.com:1935/14030/14030/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Litus
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Medios Rioja
+http://streamyes.alsolnet.com/mediosrioja/live/chunklist_w635100631.m3u8?PlaylistM3UCL
+#EXTINF:0, Power
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL
+#EXTINF:0, T5 SATELITAL
+http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8?PlaylistM3UCL
+#EXTINF:0, Tele Diez
+http://inliveserver.com:1935/8670/8670/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Telenord Corrientes
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8QEA8QEg8VFRAQEA8VEhAQDQ8WEA8VFRUYFhUVFRcYHSggGBolHRcVITEhJSkrLi4uFx8zODMtNyktLisBCgoKDg0OGhAQGy8lICYtLS0vLS0tLS0tLS0tLSstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAMgAyAMBEQACEQEDEQH/xAAcAAEAAgMBAQEAAAAAAAAAAAAABQYBAwcCBAj/xABEEAABAwIDAwYLBQgABwAAAAABAAIDBBEFBiESMUEHE1FhcbEiMjNCcoGRkqHR8DRSU7LBFBYjYoKT0uEVJENjg7Px/8QAGwEBAAIDAQEAAAAAAAAAAAAAAAUGAQIEAwf/xAA4EQACAQMCAgULBAICAwAAAAAAAQIDBBEFMRIhMkFRcfAGExQzNFJhkaGx0RUiQoHh8SPBF" -  Television Regional Unimar
+https://panel.dattalive.com/8012/8012/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, UNIFE
+https://strive-sdn-lsdlive-live.akamaized.net/live_passthrough_static/unife/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, UNIRIO
+https://59db7e671a1ad.streamlock.net/uniriotv/uniriotv/chunklist_w1849553486.m3u8?PlaylistM3UCL
+#EXTINF:0,iVBORw0KGgoAAAANSUhEUgAAAJoAAACaCAMAAABmIaElAAAAsVBMVEXrTDb////rTTcsPlHpPibrSjTqRS71pJn1qJ3wemrvbVvqQir1ppv61M/619L0nJD3vLPsVD/+9/btYEzuZVLyi33849/3s6rpOiL5x8HuaFbwd2byj4HsWEPvcV/xhnf3t67zlon96+n1TTUaPVT5zMX85+T0TTX9TTPzk4boMxptQ0jHSTvkTDc5P0/xgHCQRUNiQknUSjq3SD1GQE2jR0BWQUutSD+GRUSURkLoKxKqz+NVAAAJlUlEQVR4nO2ce3uiOBTGQ0qikiqCF1C8W612Z+q2M7s7O9//g20SbkESIBaUP/Z95qIB8WcCJycnJwHGl+VOB8POJBgvHQDgcrRa25vD1P36dcGXPr3re/bFGi0dCEQ5y5HV23qH44PQpsOztQSFcuaTzeDm+rsNze13Vk4xViw4P892d0" -  Uni Teve
+http://stmv1.questreaming.com/uniteve/uniteve/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, UTN TV
+http://streaming.arcast.com.ar:1935/utntv/utntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, 5TV
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, 9Link
+http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, 13 Max Television
+http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Aire de Santa Fe
+https://sc2.stweb.tv/airedigital/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Argentinisima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 2 Dean Funes
+http://streaming.arcast.com.ar:1935/canal2deanfunes/canal2deanfunes/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 2 Mar del Plata
+https://inliveserver.com:1936/8546/8546/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 2 Tunuyan
+https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 3 Pinamar
+http://209.182.219.229:8080/hls/canal3pinamar.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 3 Rosario
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 4 Bahia Blanca
+https://cdn2.zencast.tv:30443/bahiablanca/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 4 Jujuy
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 4 Esquel
+https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 4 Posadas
+https://589ff3c36f7e8.streamlock.net/canal4/canal4/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 4 San Juan
+http://streamyes.alsolnet.com:1935/canal4sanjuan/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 6 Mar del Plata
+https://edge1o.live.opencaster.com/caster/naxjaqigbpAm.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 6 Moreno
+https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 6 Posadas
+https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 7 Chubut
+http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 7 Jujuy
+https://59d52c5a5ce5e.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 7 Salta
+https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 8 Tunuyan Mendoza
+https://59537faa0729a.streamlock.net/canal2tunuyan/canal2tunuyan/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 9 Televida Mendoza
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 10
+https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 10 Mar del Plata
+https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 12 Madryn TV
+https://59db7e671a1ad.streamlock.net/madryntv/madryntv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 13 San Luis
+https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, CN 24/7 Neuquen
+https://panel.dattalive.com:443/6605140/smil:6605140.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 79 Mar del Plata
+https://5d8c5887418ac.streamlock.net:1936/mardelplata/mardelplata/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 907 FM Comunicar
+https://panel.dattalive.com/canal907/canal907/chunklist_w1205944599.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal Cinco Tigre
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal Coop
+https://panel.dattalive.com:443/8138/8138/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal U
+https://vcp.myplaytv.com:443/canalusrt/smil:canalusrt.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal XFN
+https://5d8c5887418ac.streamlock.net:1936/canalxfn/canalxfn/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Cachipum TV
+https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Chacra TV
+https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Chaco TV
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, CL3 Cablevision
+http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, El 10 TV Salta
+https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, El Eco TV
+https://5cbda9ff89c34.streamlock.net:443/elecotv/elecotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Lapacho TV Canal 11
+https://5b3050bb1b2d8.streamlock.net:443/tvcanal11/tvcanal11/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8?PlaylistM3UCL
+#EXTINF:0, Metro TV Canal 12 Tucuman
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?token=null&PlaylistM3UCL
+#EXTINF:0, Multivisión
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Net TV
+https://unlimited2-cl.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Quatro TV
+https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, RTN
+http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:0, Sicardi TV
+https://stmvideo2.livecastv.com/sicarditv/sicarditv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Somos Rosario
+http://s8.stweb.tv/chacra/rosario_abr/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TDC TV Santa Fe
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Telecreativa
+https://cdn2.zencast.tv:30443/telecreativa/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Telediario Televisión
+http://31.220.61.253:8090/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:0, Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Telpin Canal 2
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Terramia TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:0, Telesol San Juan
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TSN Necochea
+https://panel.dattalive.com/8130/8130/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Mana
+http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Publica Fueguina
+https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8?PlaylistM3UCL
+#EXTINF:0, Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Classic Mix
+https://usb.bozztv.com/DIGIMEDIOS/index.m3u8?PlaylistM3UCL
+#EXTINF:0, Retro Plus TV
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Rewind TV
+https://srv2.zcast.com.br/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 6 Entre Rios
+http://inliveserver.com:1935/8380/8380/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,  uRV TV
+https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
+
