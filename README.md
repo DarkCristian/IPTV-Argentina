@@ -1,2 +1,4 @@
 # IPTV-Argentina
-IPTV list 
+IPTV list URL:
+
+https://bit.ly/3ckppPA
