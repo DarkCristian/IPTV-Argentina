@@ -188,7 +188,7 @@ https://cdn2.zencast.tv:30443/telecreativa/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Telediario Televisión
 http://31.220.61.253:8090/hls/live.m3u8?PlaylistM3UCL
 #EXTINF:0, Telemax
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
+http://live-edge01.telecentro.net.ar/live/tlxhd-720/playlist.m3u8
 #EXTINF:0, Telpin Canal 2
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Terramia TV
