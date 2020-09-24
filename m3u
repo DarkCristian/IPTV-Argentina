@@ -13,6 +13,8 @@ https://www.youtube.com/watch?v=IGgZbJPvaYY
 https://www.youtube.com/watch?v=Ky3Gro2_Q7E
 #EXTINF:30,Crónica TV - Crónica TV
 https://www.youtube.com/watch?v=8n6QKPb_OFQ
+#EXTINF:0, Telefe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0046
 #EXTINF:0, Telefe Rosario
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
 #EXTINF:0, Telefe Santa Fe
